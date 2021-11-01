@@ -5,5 +5,6 @@
 Lol idk
 
 ## Links to stuff:
-- [example.com](example.com)
+*A list of personal wikis maintianed by computer science club members:  *
+- [@cuppajoe123](https://github.com/cuppajoe123/knowledge-base)
 - [example.com](example.com)
