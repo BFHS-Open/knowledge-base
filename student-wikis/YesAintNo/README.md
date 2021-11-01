@@ -2,8 +2,8 @@
 
 ## Introduction: 
 
-Hello, I'm Thomas Wilson (YesAintNo)! \n
-I'm mostly interested in Rust & Typescript. Usually focusing on Web Technologies. \n
+Hello, I'm Thomas Wilson (YesAintNo)! <br>
+I'm mostly interested in Rust & Typescript. Usually focusing on Web Technologies. <br>
 Hopefully, here's a useful repository!
 
 ## Interesting Resources:
