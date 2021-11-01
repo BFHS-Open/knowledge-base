@@ -1,7 +1,8 @@
 # BFHSLA - SciClub - Knowledge Base
 
 ## What's this?
-This is the computer science Knowledge Base! \n This simply features student-curated information and resources.
+This is the computer science Knowledge Base! <br>
+This simply features student-curated information and resources.
 
 ## Personal Knowledge Bases:
 *A list of personal wikis maintianed by computer science club members:*
