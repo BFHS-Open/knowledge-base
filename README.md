@@ -1,7 +1,7 @@
 # BFHSLA - SciClub - Knowledge Base
 
 ## What's this?
-This is the computer science Knowledge Base! <br>
+This is the Computer Science Club's "Knowledge Base"! <br>
 This simply features student-curated information and resources.
 
 ## Personal Knowledge Bases:
