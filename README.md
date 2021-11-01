@@ -6,3 +6,4 @@ This is the computer science Knowledge Base! \n This simply features student-cur
 ## Personal Knowledge Bases:
 *A list of personal wikis maintianed by computer science club members:*
 - [@cuppajoe123](https://github.com/cuppajoe123/knowledge-base)
+- [@YesAintNo](https://github.com/YesAintNo/knowledge-base/tree/main/student-wikis/YesAintNo)
