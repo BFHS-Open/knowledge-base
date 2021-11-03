@@ -5,3 +5,5 @@ A list of personal wikis maintianed by computer science club members:
 @Evan-Ellender- https://github.com/Evan-Ellender/personal-wiki
 
 @TD-QM - https://github.com/TD-QM/knowledge-base
+
+@EmeraldBlock - https://github.com/EmeraldBlock/knowledge-base
